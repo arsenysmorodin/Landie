@@ -11,7 +11,7 @@ $(document).ready(function() {
     }
 
     function moveAll(object) {
-        moving($(object[0]), 20);
+        moving($(object[0]), 50);
     }
 
     moveAll(imgs);
